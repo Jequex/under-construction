@@ -1,0 +1,21 @@
+.full_screen{
+    width: 100vw;
+    height: 100vh;
+    background-color: #030000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    color: white;
+    font-family: monospace;
+    font-size: 3vw;
+}
+.image{
+    width: 10vw;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
